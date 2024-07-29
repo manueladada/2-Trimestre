@@ -7,13 +7,13 @@ const TextoResultado = document.querySelectorAll(".texto-resultado");
 const Perguntas = [
     {
     Enunciado: "Pergunta 1",
-    Alternativas: ["alternativa 1", "alternativa 2"]
+    Alternativas: ["Alternativa 1", "Alternativa 2"]
     },
 
 
 {
      Enunciado: "Pergunta 2",
-Alternativas: ["alternativa 1", "alternativa 2"]
+Alternativas: ["Alternativa 1", "Alternativa 2"]
 },
 
 ]
